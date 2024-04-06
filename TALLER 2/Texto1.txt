@@ -1,0 +1,10 @@
+El texto contiene una gran cantidad de palabras y algunas palabras se repiten
+con más frecuencia que otras. El escritor necesita identificar las palabras que
+aparecen con mayor frecuencia en el texto para poder utilizarlas de manera
+efectiva en su proyecto literario.Utilizar los conjuntos en Python para almacenar las palabras únicas del texto y
+analizar la frecuencia de las palabras encontradas al procesar el texto y contar
+la frecuencia de las palabras.gsadasfjsfjsfajdgsafgfksfkkasfcaskidghkvhkdvdsvkdsvkdsjkvdvdbvjzbdjk
+gssfhfghasgfjasgfahgjgfagfj
+idghkvhkdvdsvkdsvkdsjkvdvdbvjzbdjk
+6565656565656566
+343434343434343434343434343434343434
